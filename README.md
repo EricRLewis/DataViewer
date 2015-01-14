@@ -1,5 +1,5 @@
 # DataViewer
-This application reads in a txt file and parses through coordinate data. It displays the data on 3 graphs.
+This Java application reads in a txt file and parses through coordinate data. It displays the data on 3 graphs.
 The data can be manipulated or selected through either the graphs or the data table for user readability and writeability.
 
 The graphs can be draged around to change the sizes.
